@@ -54,6 +54,7 @@ curl -s http://127.0.0.1:5000/api/vacancies | jq
 <img width="908" height="311" alt="image" src="https://github.com/user-attachments/assets/b3e80f58-df2d-457a-b417-074da40b00af" />
 Финальная проверка
 <img width="885" height="878" alt="image" src="https://github.com/user-attachments/assets/0e36b8fe-89ab-447a-93de-3c59749b1a1a" />
+
 # Часть 3: Настройка Nginx как обратного прокси
 Сначала произведем установку Nginx:
 
