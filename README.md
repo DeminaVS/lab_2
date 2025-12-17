@@ -3,7 +3,8 @@
 Изучить методы отправки и анализа HTTP-запросов с использованием инструментов telnet и curl, освоить базовую настройку и анализ работы HTTP-сервера nginx в качестве веб-сервера и обратного прокси, а также изучить и применить на практике концепции архитектурного стиля REST для создания веб-сервисов (API) на языке Python.
 
 1. Анализ заголовка при запросе к главной странице vk.com.
-   <img width="2075" height="568" alt="image" src="https://github.com/user-attachments/assets/310c5153-ed66-402c-bebe-955cc4625d5f" />
+   <img width="2075" height="568" alt="Снимок экрана 2025-12-17 015047" src="https://github.com/user-attachments/assets/da0f06c6-2ccd-46bb-aef2-51ad1b5170ba" />
+
 
 2. API для "Список вакансий" (сущность: id, job_title, company).
    <img width="1280" height="394" alt="image" src="https://github.com/user-attachments/assets/bf15346a-60bc-4ede-9d97-254beebc4761" />
